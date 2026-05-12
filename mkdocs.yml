@@ -3,6 +3,9 @@ site_author: Karol Bierko
 site_description: >-
     Portfolio moich projektów z Data Science, Machine Learning i AI.
 
+repo_name: kbierko/karol_bierko_portfolio
+repo_url: https://github.com/kbierko/karol_bierko_portfolio
+
 theme:
   name: material
   user_color_mode_toggle: true
