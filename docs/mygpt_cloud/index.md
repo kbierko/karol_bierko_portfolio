@@ -9,7 +9,7 @@ Zapraszam do zapoznania się z moim projektem aplikacji **MyGPT** <ins>(w wersji
 Aplikacja MyGPT to inteligenty chatbot AI stworzony w Pythonie z wykorzystaniem frameworka Streamlit oraz modeli językowych OpenAI.
 
 Jest to kolejna wersja aplikacji MyGPT przedstawiona w moim portfolio.<br>
-Zasadniczą różnicą w stosunku do wersji poprzedniej ([MyGPT local](http://127.0.0.1:8000/mygpt_local/)) jest sposób przechowywania konwersacji oraz architektura aplikacji.
+Zasadniczą różnicą w stosunku do wersji poprzedniej ([MyGPT local](https://kbierko.github.io/karol_bierko_portfolio/mygpt_local/)) jest sposób przechowywania konwersacji oraz architektura aplikacji.
 
 Tym razem dane NIE są przechowywane lokalnie, a w bazie danych **Supabase**.
 

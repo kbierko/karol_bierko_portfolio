@@ -106,4 +106,4 @@ Poniżej zamieszczam do wglądu plik app.py
 
 <br>Ta aplikacja posiada swoją kolejną wersję dostępną w linku poniżej:
 
-[MyGPT cloud](http://127.0.0.1:8000/mygpt_cloud/)
+[MyGPT cloud](https://kbierko.github.io/karol_bierko_portfolio/mygpt_cloud/)
